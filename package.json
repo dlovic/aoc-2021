@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Denis <denis.lovic@sogeti.se>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
